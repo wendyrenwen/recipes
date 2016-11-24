@@ -4,3 +4,5 @@
  - salt
 # Instructions
  - step 1
+ - step 2
+
