@@ -1,6 +1,6 @@
 # Ingredients
  - avovados
- - lemon
+ - lime
  - salt
 # Instructions
 
